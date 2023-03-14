@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PDF Password - Add &amp; Remove</string>
+    <string name="pdf_ext" translatable="false">.pdf</string>
+    <string name="encrypted_file">_encrypted.pdf</string>
+    <string name="decrypted_file">_unencrypted.pdf</string>
+    <string name="snackbar_pdfCreated">PDF created!</string>
+    <string name="snackbar_viewAction">View</string>
+    <string name="snackbar_no_pdf_app">No app to read PDF File</string>
+    <string name="open_file">Open File</string>
+    <string name="encrypted_pdf">PDF is password protected</string>
+
+
+    <string name="order_confirmation">Message</string>
+    <string name="ok">OK</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="version_name">1.0.0</string>
+
+    <string name="admob_native_id">ca-app-pub-3940256099942544/2247696110</string>
+
+</resources>

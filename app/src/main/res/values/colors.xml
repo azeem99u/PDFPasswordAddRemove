@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FFBB86FC</color>
+    <color name="purple_700">#FFBB86FC</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="card_color">#E1E1E1</color>
+    <color name="red">#ee315e</color>
+    <color name="black_light">#353535</color>
+
+
+    <color name="gnt_primaryColor">#217345</color>
+    <color name="gnt_test_background_color">#00F4F4F4</color>
+    <color name="gnt_test_background_color_2">#00A3A3A3</color>
+    <color name="gnt_black">#000000</color>
+    <color name="gnt_white">#FFFFFF</color>
+    <color name="gnt_red">#FF0000</color>
+    <color name="gnt_green">#00FF00</color>
+    <color name="gnt_blue">#4285f4</color>
+    <color name="gnt_ad_green">#3A6728</color>
+    <color name="gnt_gray">#808080</color>
+    <color name="gnt_outline">#E0E0E0</color>
+    <color name="gnt_bg">#FAFBFB</color>
+    <color name="gnt_text_primary">#000001</color>
+    <color name="gnt_text_secondary">#212121</color>
+    <color name="gnt_text_tertiary">#606770</color>
+
+
+
+
+    <color name="ad_background">#E7E7E7</color>
+    <color name="ad_primary_text_color">#232527</color>
+    <color name="ad_secondary_text_color">#A5A5A5</color>
+    <color name="ad_icon_background">#fbae03</color>
+    <color name="ad_image_background">#C8C8C8</color>
+    <color name="ad_borderline">#c9c9c9</color>
+    <color name="ad_ratting_color">#17C19B</color>
+    <color name="button_color_green">#00875f</color>
+
+
+</resources>
